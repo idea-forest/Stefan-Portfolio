@@ -1,0 +1,24 @@
+{
+    "largeImage": "/images/about-image.webp",
+    "technicalProficiencies": [
+        {
+            "id": 1,
+            "title": "💪 Programming Languages",
+            "text": "C# , C/C++, PHP, JavaScript , TypeScript , Python, ML, Ruby"
+        },
+        {
+            "id": 2,
+            "title": "💪 Frameworks",
+            "text": "- JavaScript (React, Angular, Next.JS, Vue, React Native, Node Express)\n- CSS (Bootstrap, TailwindCSS, Material UI)\n- PHP (CodeIgnitor, WordPress, Laravel)\n- C# (Winforms, WPF, ASP.NET Core, Blazor Server App, Blazor WASM, Entity Framework, Linq, SignalR, DevExpress, Xamarine)\n- Python (Django)"
+        },
+        {
+            "id": 3,
+            "title": "💪 Databases",
+            "text": "MySQL, PostgreSQL, MongoDB, Firebase, Supabase, Microsoft SQL Server, Azure SQL Server, NoSQL"
+        },{
+            "id": 4,
+            "title": "💪 Project Management and the Others",
+            "text": "- Azure Devops , Jira, Asana, Github, Gitlab , BitBucket\n- AWS, CPanel, Nignix, REST API, Docker,"
+        }
+    ]
+}

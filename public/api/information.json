@@ -1,0 +1,24 @@
+{
+  "firstName": "Stefan",
+  "lastName": "Stanojevics",
+  "fullName": "Stefan Stanojevics",
+  "thumbImage": "/images/me.jpg",
+  "largeImage": "/images/about-image.webp",
+  "bio": "🥇 Talented full stack developer who is specialized in Javascript frameworks and .NET frameworks.🥇\n\"Stefan's commitment to meeting deadlines while upholding the highest quality standards was remarkable. He managed his workload efficiently, delivering our project well ahead of schedule without any compromise on quality. His punctuality and reliability in the freelance domain are indeed commendable.\"\nMartin M. Feb 2024",
+  "nationality": "Japan",
+  "languages": ["Serbian", "English"],
+  "address": "Svetosavska 011, Grocka, 11306, Serbia",
+  "freelance": "Available",
+  "socialAddress": {
+    "github": "https://github.com/idea-forest",
+    "linkedin": "https://www.linkedin.com/in/stefan-stanojevic-0537b22b3/",
+    "email": "mailto: stanojevics2001@gmail.com",
+    "telegram": "https://t.me/stefanstanojevics2001",
+    "whatsapp":"https://wa.me/+381621119364",
+    "discord":"alexkonan19950705"
+  },
+  "emailAddress": ["stanojevics2001@gmail.com"],
+  "telegram": ["https://t.me/stefanstanojevics2001"],
+  "whatsapp":["https://wa.me/+381621119364"],
+  "discord":["alexkonan19950705"]
+}

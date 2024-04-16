@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Web App Development",
+        "text": "Web application makes them ideal for reaching a wide audience and providing seamless access to information and services across different platforms and devices. Additionally, web applications can be easily updated and maintained centrally, ensuring that users always have access to the latest features and improvements.\n\nI can build web application with Javascript Frameworks and .NET frameworks(Python plus).",
+        "icon": "/icons/web.svg"
+    },
+    {
+        "id": 2,
+        "title": "Mobile App Development",
+        "text": "Mobile devices are the most popular platform for accessing the Internet. Mobile apps represent a key avenue to access potential customers, and they craft the overall customer experience with your brand. \n\nI can build mobile apps with react-native, flutter.",
+        "icon": "/icons/mobile.svg"
+    },
+    {
+        "id": 3,
+        "title": "Desktop App Development",
+        "text": "Desktop applications offer a more robust and immersive user experience, with greater control over hardware resources and offline capabilities. They can take advantage of the full capabilities of the user's device, providing faster performance, richer graphics, and more sophisticated features.\n\n I can build any kind of desktop applications with C/C++/C# on all platforms. ",
+        "icon": "/icons/desktop.svg"
+    }
+]

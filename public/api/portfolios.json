@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "title": "Supercrip",
+    "subtitle": "web3.js, React.js, TypeScript, Ethereum, Smart Contracts, Solidity, Hardhat",
+    "coverimage": "/images/portfolios/supercrip/gallery1.png",
+    "imagegallery": [
+      "/images/portfolios/supercrip/gallery1.png",
+      "/images/portfolios/supercrip/gallery2.png",
+      "/images/portfolios/supercrip/gallery3.png"
+    ],
+    "videogallery": false,
+    "url": "https://supercrip.io",
+    "filters": ["React", "node"]
+  },
+  {
+    "id": 2,
+    "title": "Flowheel",
+    "subtitle": "Next.js(App Route), TypeScript, SSR, CSS/SCSS, Material UI, Figma, Postman, RESTful API, Stripe.js, PostgreSQL, GitHub, Notion",
+    "coverimage": "/images/portfolios/flowheel/gallery1.png",
+    "imagegallery": [
+      "/images/portfolios/flowheel/gallery1.png",
+      "/images/portfolios/flowheel/gallery2.png",
+      "/images/portfolios/flowheel/gallery3.png",
+      "/images/portfolios/flowheel/gallery4.png"
+    ],
+    "videogallery": false,
+    "url": "https://flowheel.io/",
+    "filters": ["react"]
+  },
+  {
+    "id": 3,
+    "title": "Baltichome",
+    "subtitle": "React, Next.js, Node.js, Bootstrap, three.js",
+    "coverimage": "/images/portfolios/baltichome/gallery1.png",
+    "imagegallery": [
+      "/images/portfolios/baltichome/gallery1.png",
+      "/images/portfolios/baltichome/gallery2.png",
+      "/images/portfolios/baltichome/gallery3.png",
+      "/images/portfolios/baltichome/gallery4.png"
+    ],
+    "videogallery": false,
+    "url": "https://www.baltichome.eu/",
+    "filters": ["react", "node"]
+  },
+  {
+    "id": 4,
+    "title": "Nfinity",
+    "subtitle": "Laravel, React, Next.js, TypeScript, Chakra UI, Tawilwind CSS",
+    "coverimage": "/images/portfolios/nfinity/gallery1.png",
+    "imagegallery": [
+      "/images/portfolios/nfinity/gallery1.png",
+      "/images/portfolios/nfinity/gallery2.png"
+    ],
+    "videogallery": false,
+    "url": "https://sum.nfinity.pl/login",
+    "filters": ["react", "node"]
+  },
+  {
+    "id": 5,
+    "title": "MMN",
+    "subtitle": "ASP.NET Core, NextJS, TailwindCSS, MUI, GAuth, Stripe, Azure",
+    "coverimage": "/images/portfolios/mmn/gallery1.png",
+    "imagegallery": [
+      "/images/portfolios/mmn/gallery1.png",
+      "/images/portfolios/mmn/gallery2.png",
+      "/images/portfolios/mmn/gallery3.png"
+    ],
+    "videogallery": false,
+    "url": "https://mmn-front-end-three.vercel.app/",
+    "filters": ["next", "asp.net", "tailwind"]
+  },
+  
+  {
+    "id": 6,
+    "title": "Mers",
+    "subtitle": "Laravel, Alpine.js, Tailwind CSS",
+    "coverimage": "/images/portfolios/mers/cover.png",
+    "imagegallery": [
+      "/images/portfolios/mers/gallery1.png",
+      "/images/portfolios/mers/gallery2.png"
+    ],
+    "videogallery": false,
+    "url": "https://mers.code23.com/",
+    "filters": ["laravel"]
+  },
+  {
+    "id": 7,
+    "title": "Fullcolor",
+    "subtitle": "Vue.js, Nuxt.js, Vuetify",
+    "coverimage": "/images/portfolios/fullcolor/cover.png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://www.fullcolor.com/",
+    "filters": ["vue"]
+  },
+  {
+    "id": 8,
+    "title": "Scan",
+    "subtitle": " Python, React, Tailwind CSS",
+    "coverimage": "/images/portfolios/scan/cover.png",
+    "imagegallery": [
+      "/images/portfolios/scan/gallery1.png",
+      "/images/portfolios/scan/gallery2.png"
+    ],
+    "videogallery": false,
+    "url": "https://scan.com/",
+    "filters": ["ror"]
+  },
+  {
+    "id": 9,
+    "title": "Paved",
+    "subtitle": "Ruby on Rails, Ruby, Bootstrap, jQuery",
+    "coverimage": "/images/portfolios/paved/cover.png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://www.paved.com/",
+    "filters": ["ror"]
+  },
+ 
+  {
+    "id": 10,
+    "title": "Franklin",
+    "subtitle": "ASP.NET, Angular, Node.js, Material UI, TypeScript, NgRx",
+    "coverimage": "/images/portfolios/franklin/cover.png",
+    "imagegallery": [
+      "/images/portfolios/franklin/gallery1.png",
+      "/images/portfolios/franklin/gallery2.png",
+      "/images/portfolios/franklin/gallery3.png"
+    ],
+    "videogallery": false,
+    "url": "https://franklin.genoox.com/",
+    "filters": ["angular", "node"]
+  },
+  {
+    "id": 11,
+    "title": "ERAOFWE",
+    "subtitle": "React, Gatsby, Material UI, GraphQL",
+    "coverimage": "/images/portfolios/eraofwe/cover.png",
+    "imagegallery": [
+      "/images/portfolios/eraofwe/gallery1.png",
+      "/images/portfolios/eraofwe/gallery2.png",
+      "/images/portfolios/eraofwe/gallery3.png"
+    ],
+    "videogallery": false,
+    "url": "https://www.eraofwe.com/",
+    "filters": ["react", "gatsby"]
+  }
+]

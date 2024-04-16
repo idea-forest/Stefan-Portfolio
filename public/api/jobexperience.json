@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Front End Developer",
+    "meta": "FloWheel",
+    "list": [
+      "● Designed, developed, and maintained business-critical applications, tools, and websites using various languages and tools.",
+      "● Internal resource to discuss requirements with clients, propose solutions, ensure a pleasant user experience, and manage quality assurance.",
+      "● Converted Zeplin design to web pages and integrated with back-end API using Angular, PrimeNG, and TypeScript.",
+      "● Built company web site using React, Gatsby and Material UI."
+    ],
+    "text": "Technical Stacks: Angular, React, Gatsby, TypeScript, PrimeNG, material UI",
+    "year": "Nov 2020 - Oct 2021"
+  },
+  {
+    "id": 2,
+    "title": "Front End Developer",
+    "meta": "FloWheel",
+    "list": [
+      "● Front-end development using technologies such as React/Next.js, CSS/SCSS, Material UI, and Bootstrap 5.0",
+      "● Designed and developed 24 reusable and modular React functional components, including functional components, class-based components, and custom hooks, to build dynamic and interactive user interfaces for web applications by collaborating Designer",
+      "● Ensured seamless user experiences across various devices by employing mobile-first design principles and responsive web design techniques, resulting in a 17% increase in user satisfaction",
+      "● Integrated third-party services and RESTful APIs, including payment gateways using Stripe.js and social media platforms, to improve application functionality and enrich user interactions",
+      "● Proficiently built over 5 websites using Next.js (Page and App Router) + Bootstrap5.0, leveraging its capabilities for server-side rendering (SSR) and static site generation (SSG) to optimize performance and SEO"
+    ],
+    "text": "Tech Stack: Next.js(App Route), TypeScript, SSR, CSS/SCSS, Material UI, Figma, Postman, RESTful API, Stripe.js, PostgreSQL, GitHub, Notion",
+    "year": "Feb 2022 - Sep 2023"
+  }
+]
